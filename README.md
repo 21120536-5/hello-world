@@ -1,2 +1,2 @@
-# hello-world
- Este repositório é para praticar o fluxo do GitHub
+# Sobre mim
+ Sou um programador sonhador. Busco sempre aprender e melhorar :) 
